@@ -98,7 +98,7 @@ public class Common {
 	//final static String GNSS_FW_FILE_PATH = "/STA8090_4_5_7_LIV_UPG26.bin";
 	//final static String GNSS_FW_FILE_PATH = "/STA8090_4_6_8_LIV_CFG_v6_SMPS_UPG26.bin";
 	//final static String GNSS_FW_FILE_PATH = "/STA8090_4_6_8_1_UPG26.bin";
-	final static String GNSS_FW_FILE_PATH = "/STA8090_4_6_8_2_RC3_UPG26.bin";
+	final static String GNSS_FW_FILE_PATH = "/STA8090_4_6_8_2_UPG26.bin";
 	//final static String GNSS_FW_FILE_PATH = "/sta8090_SQI_AGNSS_UPG.bin";
 	final static String GNSS_FW_UPDATE_WARNING = "Please, don't unplug the motherboard while updating!";
 	
